@@ -7,5 +7,13 @@ Data Structures & Algorithms
 - If Non stop play music  then circular linked list is used
 - Uses of Graph
 - Each Application of data of google is connected to each others
+# Day-2 22-Dec-23
+- Array
+- 1 Traversal
+- 2 Insert Element at 0th position
+- Array just like DVD box. To add New DVD in box.
+- Uses of Insert Element at 0th position:
+- 1.Message Handling
+- 2.Priority Queues
 
-  
+
