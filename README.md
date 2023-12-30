@@ -15,5 +15,8 @@ Data Structures & Algorithms
 - Uses of Insert Element at 0th position:
 - 1.Message Handling
 - 2.Priority Queues
+# Day-3 23-Dec-23
+- 1 Insert Element at end/last position
+- 2 Insert Element at specific position
 
 
