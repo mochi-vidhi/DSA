@@ -18,5 +18,13 @@ Data Structures & Algorithms
 # Day-3 23-Dec-23
 - 1 Insert Element at end/last position
 - 2 Insert Element at specific position
-
+# Day-4 28-Dec-23
+- Deletion in Array
+- 1 Delete Element at 0th position
+- 2 Delete Element at end position
+- 3 Delete Element at specific position
+# Day-5 29-Dec-23
+- Difference between Array and linked list
+- 1 Singly linked list 🔗
+- 2 Doubly linked list 🔗
 
