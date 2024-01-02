@@ -12,6 +12,7 @@ Data Structures & Algorithms
 - 1 Traversal
 - 2 Insert Element at 0th position
 - Array just like DVD box. To add New DVD in box.
+- Arrays are used in TV channels.We can easily access the channel by index. 
 - Uses of Insert Element at 0th position:
 - 1.Message Handling
 - 2.Priority Queues
