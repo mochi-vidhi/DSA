@@ -38,4 +38,15 @@ Data Structures & Algorithms
 - Circular Linked list
 - Doubly Circular Linked list
 - Create single node in singly linked list.
+# Day-8 4-jan-24
+- Introduction of Hashing
+- Hash Table,Hashing Functions
+- Collision Resolution Techniques
+- 1.Chaining(open hashing)
+- 2.Close hashing
+- Linear probing,Quadratic probing
+- Hashing is used to stores the password in data base
+  means security of the password.
+- Hash function is just like maths functions means logical functions.
+- Hash table is just like Array. and values are known as keys.  
 
