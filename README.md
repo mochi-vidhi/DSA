@@ -28,4 +28,14 @@ Data Structures & Algorithms
 - Difference between Array and linked list
 - 1 Singly linked list 🔗
 - 2 Doubly linked list 🔗
+# Day-6 1-jan-24
+- Uses of linked list
+- linked list use in You tube.
+- Linked list is not regular  it stores data any place in memory
+  because dynamic memory allocation.so Address is either increase or decrease order.
+- We stores photos in gellery.
+# Day-7 3-jan-24
+- Circular Linked list
+- Doubly Circular Linked list
+- Create single node in singly linked list.
 
