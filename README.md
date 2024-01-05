@@ -48,5 +48,8 @@ Data Structures & Algorithms
 - Hashing is used to stores the password in data base
   means security of the password.
 - Hash function is just like maths functions means logical functions.
-- Hash table is just like Array. and values are known as keys.  
+- Hash table is just like Array. and values are known as keys.
+# Day-9 5-jan-24
+- Linked list Traversal
+- Insert  node at 0th position in Linked list
 
