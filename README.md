@@ -52,4 +52,18 @@ Data Structures & Algorithms
 # Day-9 5-jan-24
 - Linked list Traversal
 - Insert  node at 0th position in Linked list
+# Day-10 19-jan-24
+- Insert node at 0th position in linked list
+- This program is used in
+- Notification System
+  In a notification system, new notifications can be inserted at the beginning of
+  a linked list to ensure that users see the latest notifications first.
+- Recent Activities:
+  Applications that track recent activities (e.g., recent documents opened, recent searches) can insert
+  new items at the beginning of the linked list to maintain a chronological order.
+- Playlist Management:
+  In a music or video playlist, new songs or videos can be added at the beginning
+  of the linked list to play the most recently added content first.
+# Day-11 20-jan-24
+-  Insert  node at End  in Linked list.
 
