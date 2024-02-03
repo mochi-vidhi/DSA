@@ -66,4 +66,15 @@ Data Structures & Algorithms
   of the linked list to play the most recently added content first.
 # Day-11 20-jan-24
 -  Insert  node at End  in Linked list.
+# Day-12 2-feb-24
+- Delete node from biging in linked list.
+- Delete node from end in linked list.
+- Use of delete node from begging :
+  1 Removing the Oldest Data: In applications where the linked list represents a queue or a buffer,
+    the start node often contains the oldest data. Deleting the start node allows the system to
+    remove and process the oldest data entry, freeing up memory and ensuring that the data structure remains efficient.
+
+# Day-13 3-feb-24
+- Delete node from specific position from linked list.
+ 
    
