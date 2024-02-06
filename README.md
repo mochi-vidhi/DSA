@@ -70,7 +70,7 @@ Data Structures & Algorithms
 - Delete node from biging in linked list.
 - Delete node from end in linked list.
 - Use of delete node from begging :
-  1 Removing the Oldest Data: In applications where the linked list represents a queue or a buffer,
+-  1 Removing the Oldest Data: In applications where the linked list represents a queue or a buffer,
     the start node often contains the oldest data. Deleting the start node allows the system to
     remove and process the oldest data entry, freeing up memory and ensuring that the data structure remains efficient.
 
@@ -80,10 +80,10 @@ Data Structures & Algorithms
 - Introduction to Doubly linked list.
 - Create first Node in Doubly linked list.
 - Uses of Doubly linked list.
-  1 Text Editors: Doubly linked lists are commonly used to implement the Undo and Redo functionality in text editors.
+- 1 Text Editors: Doubly linked lists are commonly used to implement the Undo and Redo functionality in text editors.
   Each node in the list represents a version of the document, and the links allow users to traverse backward and
   forward through the document's history.
-  2 Browser History: Doubly linked lists can be used to implement the backward and forward navigation buttons in
+- 2 Browser History: Doubly linked lists can be used to implement the backward and forward navigation buttons in
    web browsers. Each node in the list represents a visited webpage, and the links allow users to navigate
   backward and forward through their browsing history.
  
