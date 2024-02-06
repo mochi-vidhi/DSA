@@ -76,5 +76,15 @@ Data Structures & Algorithms
 
 # Day-13 3-feb-24
 - Delete node from specific position from linked list.
+# Day-14 6-feb-24
+- Introduction to Doubly linked list.
+- Create first Node in Doubly linked list.
+- Uses of Doubly linked list.
+  1 Text Editors: Doubly linked lists are commonly used to implement the Undo and Redo functionality in text editors.
+  Each node in the list represents a version of the document, and the links allow users to traverse backward and
+  forward through the document's history.
+  2 Browser History: Doubly linked lists can be used to implement the backward and forward navigation buttons in
+   web browsers. Each node in the list represents a visited webpage, and the links allow users to navigate
+  backward and forward through their browsing history.
  
    
