@@ -76,6 +76,7 @@ Data Structures & Algorithms
 
 # Day-13 3-feb-24
 - Delete node from specific position from linked list.
+- [Delete pos Node]{https://github.com/mochi-vidhi/DSA/blob/main/LinkedList/Deleteposnode.c}
 # Day-14 6-feb-24
 - Introduction to Doubly linked list.
 - Create first Node in Doubly linked list.
