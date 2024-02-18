@@ -87,5 +87,10 @@ Data Structures & Algorithms
 - 2 Browser History: Doubly linked lists can be used to implement the backward and forward navigation buttons in
    web browsers. Each node in the list represents a visited webpage, and the links allow users to navigate
   backward and forward through their browsing history.
- 
-   
+ # Day-15 7-feb-24
+ - Create last or end node in doubly linked list.
+ - Create end node either tail pointer or Traverse  linked list.
+ - If take tail pointer complexity is o(1).
+ - Uses of this program :
+ - Task manager application.
+ - In the contact list  while adding new numbers at the end of the linked list.  
