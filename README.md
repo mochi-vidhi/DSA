@@ -93,4 +93,11 @@ Data Structures & Algorithms
  - If take tail pointer complexity is o(1).
  - Uses of this program :
  - Task manager application.
- - In the contact list  while adding new numbers at the end of the linked list.  
+ - In the contact list  while adding new numbers at the end of the linked list.
+# Day-16 20-feb-24
+- Insert node at specific position in Doubly linked list.
+- This program is used in real life like 
+- Maintaining an Ordered List: Suppose you have a list of student records sorted by their roll numbers. When a new student joins the school,
+  you want to insert their record at the appropriate position in the list based on their roll number.
+- Calendar Events: Calendar applications use data structures to represent events and appointments. Users may want to schedule new events at specific times,
+  requiring the application to insert them into the list of existing events at the appropriate position. 
