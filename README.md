@@ -100,4 +100,7 @@ Data Structures & Algorithms
 - Maintaining an Ordered List: Suppose you have a list of student records sorted by their roll numbers. When a new student joins the school,
   you want to insert their record at the appropriate position in the list based on their roll number.
 - Calendar Events: Calendar applications use data structures to represent events and appointments. Users may want to schedule new events at specific times,
-  requiring the application to insert them into the list of existing events at the appropriate position. 
+  requiring the application to insert them into the list of existing events at the appropriate position.
+# Day-17 27-feb-24
+- Delete  start node & end node from Doubly Linked list.
+- 
